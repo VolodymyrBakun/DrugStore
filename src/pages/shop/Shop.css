@@ -1,0 +1,14 @@
+.shop{
+    /* width: 100%; */
+    padding: 20px;
+}
+.shopTitle {
+    width: 100%;
+text-align: center;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
