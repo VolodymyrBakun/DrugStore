@@ -30,3 +30,7 @@ background-color: rgb(30, 119, 45);
 color: white;
 font-weight: bold;
 }
+
+.Empty{
+    text-align: center;
+}

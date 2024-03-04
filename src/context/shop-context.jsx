@@ -4,9 +4,9 @@ import React, { createContext, useState } from 'react'
 export const ShopContext = createContext(null);
 
 let defState = {
-    1: 1,
-    2: 2,
-    3: 3,
+    1: 0,
+    2: 0,
+    3: 0,
     4: 0,
     5: 0,
     6: 0,
