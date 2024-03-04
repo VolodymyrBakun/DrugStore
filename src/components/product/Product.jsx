@@ -9,7 +9,7 @@ export const Product = ({ product }) => {
     
   return (
     <div className="productEl">
-      <img src={product.productImage} className='productImg' />
+      <img src={product.productImage} alt='Drugs' className='productImg' />
       <div className='description'>
               <h3>{product.productName}</h3>
               <p>{product.price} грн</p>

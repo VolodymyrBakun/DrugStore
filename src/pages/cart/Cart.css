@@ -1,0 +1,32 @@
+.cart {
+    width: 100%;
+    padding: 20px;
+}
+
+.cartTitle {
+    text-align: center;
+}
+
+.cartItems {
+    justify-content: center;
+}
+
+.Summ {
+text-align: center;
+line-height: 30px;
+}
+
+.cartSummBtn {
+    background-color: rgb(239, 250, 241);
+    border: 2px solid rgb(141, 197, 149);
+    min-width: 130px;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+
+.cartSummBtn:hover,
+productBtn:focus {
+background-color: rgb(30, 119, 45);
+color: white;
+font-weight: bold;
+}
