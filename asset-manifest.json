@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DrugStore/static/css/main.179afda2.css",
+    "main.js": "/DrugStore/static/js/main.47874eaa.js",
+    "static/media/Omega3DoppelHerz.jpeg": "/DrugStore/static/media/Omega3DoppelHerz.6160b8fc0cfc48346022.jpeg",
+    "static/media/Omega369.jpeg": "/DrugStore/static/media/Omega369.b43b604cc68ff83c0838.jpeg",
+    "static/media/Omega3IlanFarm.jpeg": "/DrugStore/static/media/Omega3IlanFarm.5a73b26b8d69754e4637.jpeg",
+    "static/media/Omega3Q10.jpeg": "/DrugStore/static/media/Omega3Q10.18aa41f79142fc10fe37.jpeg",
+    "static/media/Omega3Ronpharm.jpeg": "/DrugStore/static/media/Omega3Ronpharm.5c408ba74ae5241bbe7d.jpeg",
+    "static/media/SmartOmega.jpeg": "/DrugStore/static/media/SmartOmega.1dbe46a2936d9f0951f7.jpeg",
+    "static/media/OmegaKids.jpeg": "/DrugStore/static/media/OmegaKids.f7b93d2403fae981deaf.jpeg",
+    "static/media/Omega3Now.jpeg": "/DrugStore/static/media/Omega3Now.d6c68a58a447b355f4b7.jpeg",
+    "index.html": "/DrugStore/index.html",
+    "main.179afda2.css.map": "/DrugStore/static/css/main.179afda2.css.map",
+    "main.47874eaa.js.map": "/DrugStore/static/js/main.47874eaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179afda2.css",
+    "static/js/main.47874eaa.js"
+  ]
+}
