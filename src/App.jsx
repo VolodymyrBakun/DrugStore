@@ -9,12 +9,14 @@ export const App = () => {
   return (
     <div className="app">
       <ShopContextProvider>
-        <Navbar />
+        <Router basename="/DrugStore">
+          <Navbar />
 
-        <Routes>
-          <Route path="/" element={<Shop />} />
-          <Route path="cart" element={<Cart />} />
-        </Routes>
+          <Routes>
+            <Route path="/" element={<Shop />} />
+            <Route path="cart" element={<Cart />} />
+          </Routes>
+        </Router>
       </ShopContextProvider>
     </div>
   );

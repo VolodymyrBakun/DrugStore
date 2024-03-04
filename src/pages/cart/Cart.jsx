@@ -24,7 +24,7 @@ export const Cart = () => {
           if (cartItems[product.id] !== 0) {
             return <CartItem data={product} key={product.id} />;
           }
-            return <></>
+            return <div key={product.id}></div>;
         })}
       </div>
       {totalAmount > 0 ? (
